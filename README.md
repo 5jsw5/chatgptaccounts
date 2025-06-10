@@ -1,1 +1,1 @@
-# chatgptaccounts
+# chat gpt account manager
